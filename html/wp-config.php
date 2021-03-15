@@ -43,6 +43,8 @@ define( 'DB_COLLATE', '' );
 
 define( 'FS_METHOD', 'direct' );
 
+define('WP_ALLOW_REPAIR', true);
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
